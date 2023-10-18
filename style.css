@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background:linear-gradient(to left ,black,rgb(63, 15, 15),black);
+    margin: 0;
+    padding: 0;
+    align-items: baseline;
+}
+
+#header {
+    background:linear-gradient(to left ,black,rgb(63, 15, 15),black);
+    color: #b45f5f;
+    padding: 20px;
+    margin: 0;
+}
+
+.content {
+    display:block;
+    align-items: center; 
+}
+
+.image_container {
+    color:#b45f5f;
+    width: 25%;
+    float: left;
+}
+
+.image_container img {
+    width: 100%;
+    height: auto; 
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.image_container1 {
+    color:#b45f5f;
+    width: 25%;
+    float: right;
+}
+
+.image_container1 img {
+    width: 100%;
+    height: auto;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.text {
+    color: #b45f5f;
+    text-align: justify; 
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.text p {
+    margin: 10px 0; 
+}
+.text p strong{
+    color:#b45f5f;
+    font-size: large;
+}
+.text section {
+    width: 100%;
+    text-align: justify;
+}
+
+
+.discography {
+    color: #b45f5f;
+    margin-top: 10px;
+    display:inline-flex;
+}
+
+.album {
+    text-align: center;
+    margin: 0 auto; 
+    width: 45%; 
+    padding: 10px;
+}
+
+.album img {
+    width: 100%;
+    height: auto;
+}
+
+.album p {
+    margin: 10px 0;
+}
+#footer p{
+    color: #b45f5f;
+}
